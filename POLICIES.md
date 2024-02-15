@@ -1,7 +1,7 @@
 # DeRec Alliance Policies
 
-- [Written Consent](https://derecalliance.org/policies/written-consent)
-- [Bylaws](https://derecalliance.org/policies/bylaws)
+- [Written Consent (coming soon)](https://derecalliance.org/policies/written-consent)
+- [Bylaws (coming soon)](https://derecalliance.org/policies/bylaws)
 - [Conflict of Interest](https://derecalliance.org/policies/conflict-of-interest)
 - [Code of Conduct](https://derecalliance.org/policies/code-of-conduct)
 - [Core Tenets](https://derecalliance.org/policies/core-tenets)
