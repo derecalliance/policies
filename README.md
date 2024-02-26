@@ -1,2 +1,2 @@
-# GitHub Configuration
-Default GitHub configuration for the DeRec Alliance organization
+# DeRec Alliance Policies
+Policy Library for the DeRec Alliance organization
