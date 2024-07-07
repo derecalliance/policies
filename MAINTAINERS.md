@@ -9,5 +9,5 @@
 | Yared Efrem Afework           | Algorand Foundation | HashMapsData2Value | February 15, 2024 | x         | x            | x         | x        |
 | Michael Feher                 | Algorand Foundation | PhearZero          | February 16, 2024 | x         | x            | x         | x        |
 | Ori Shemtov                   | Algorand Foundation | ori-shem-tov       | February 17, 2024 | x         | x            | x         | x        |
-| Jo Rabin                      | The Building Blocks | jorabin            | February 14, 2024 | x         | x            | x         | x        |
+| Niall Roche                   | The Building Blocks | niallroche         | July 5, 2024      | x         | x            | x         | x        |
 | Wietse Wind                   | XRPL Labs           | WietseWind         | February 29, 2024 | x         | x            | x         | x        |
