@@ -18,3 +18,4 @@
 | Larkin Young                  | Algorand Foundation | larkiny            | November 4,  2024 | x         | x            | x         | x        |
 | Vijay Khanna Raviraj          | Ripple              | Vjkhannaripple     | June 6,      2025 | x         | x            | x         | x        |
 | May Chan                      | Hashpack            | may-hashpack       | October 29,  2024 | x         | x            | x         | x        |
+| Facundo La Rocca              | DeRec Alliance      |  flarocca-derec    | February 18, 2026 | x         | x            | x         | x        |
